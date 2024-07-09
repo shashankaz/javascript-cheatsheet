@@ -1,4 +1,4 @@
-# javascript-cheatsheet
+# JavaScript Cheatsheet
 
-**Links:**
+**Important Links:**
 1. https://prismjs.com/
